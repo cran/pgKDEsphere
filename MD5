@@ -1,0 +1,15 @@
+85b7e5d8878c4b770c806a57cdae03bb *DESCRIPTION
+9e9b23cebcadfc204ed3f5b0a7a4f7b5 *NAMESPACE
+884a464d668cf9c9630d3a620e953c23 *R/RcppExports.R
+e039d61d840474f8696725ca790fbea5 *R/internal.R
+3ca178387f727fc0cdb36c107cbc9b67 *R/pi.kappa.R
+bd9f41626934304e3da237726afef027 *R/sphkde.pg.R
+1e576dbf850b4ae4c0c693542245d3d5 *R/sphkde.plot.R
+3bc52391df8e3a91b4927e455b3bbcf8 *man/pgKDEsphere-internal.Rd
+3622d6244db4de2b73aac03050a5f898 *man/pi.kappa.Rd
+4d09bef72a9e2a5c34e05cd086a35fa2 *man/sphkde.pg.Rd
+4a726b5127e0b89c0bf6a264c5786319 *man/sphkde.plot.Rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+0a43aacd34bdbbef8678d7e25152ca0c *src/ParamGuidedSphericalKDE.cpp
+c82c402b17cfe9f5b8e4fb7081bc6b69 *src/RcppExports.cpp
