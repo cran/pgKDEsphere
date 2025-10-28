@@ -17,10 +17,10 @@
 #' est<-sphkde.pg(datax,guide=TRUE)
 #' sphkde.plot(est,type="sph")
 #' @details
-#' See Alonso-Pena et al. (2023) for details.
+#' See Alonso-Pena et al. (2024) for details.
 #' @references
-#' Alonso-Pena, M., Claeskens, G. and Gijbels, I. (2023) Nonparametric estimation of densities on the hypersphere using a parametric guide. Under review.
-
+#' Alonso-Pena, M., Claeskens, G. and Gijbels, I. (2024) Nonparametric estimation of densities on the hypersphere using a parametric guide. Scandinavian Journal of Statistics, 51(3), 956-986.
+#' 
 #' @export
 
 

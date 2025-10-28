@@ -1,10 +1,10 @@
-85b7e5d8878c4b770c806a57cdae03bb *DESCRIPTION
+2670b5b7001976a9b850e16e447b9628 *DESCRIPTION
 9e9b23cebcadfc204ed3f5b0a7a4f7b5 *NAMESPACE
 884a464d668cf9c9630d3a620e953c23 *R/RcppExports.R
 e039d61d840474f8696725ca790fbea5 *R/internal.R
-3ca178387f727fc0cdb36c107cbc9b67 *R/pi.kappa.R
-bd9f41626934304e3da237726afef027 *R/sphkde.pg.R
-1e576dbf850b4ae4c0c693542245d3d5 *R/sphkde.plot.R
+3a558ce29dd9ae6835fe8dcc26926529 *R/pi.kappa.R
+6c1883fd09e02b1afc7548fc7eb9fc84 *R/sphkde.pg.R
+bc99682143f3d04b8c05cf0d40f947ae *R/sphkde.plot.R
 3bc52391df8e3a91b4927e455b3bbcf8 *man/pgKDEsphere-internal.Rd
 3622d6244db4de2b73aac03050a5f898 *man/pi.kappa.Rd
 4d09bef72a9e2a5c34e05cd086a35fa2 *man/sphkde.pg.Rd
